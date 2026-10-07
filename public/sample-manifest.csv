@@ -1,0 +1,2 @@
+sample_id,source,collection_location,collection_timestamp,filtered_volume_l,image,scale_um_per_px,field_blank_count,data_status
+CAL-001,synthetic calibration disc,illustrative (not a field site),2026-10-08T09:00:00+05:30,3,calibration-disc.svg,5,0,synthetic demonstration input
